@@ -14,7 +14,7 @@ How to view and/or use this project
  *I recommend using chrome*  
 
 ### Image  
-![Picture of Bad Bank](http://url/to/img.png)  
+![Picture of Bad Bank](https://github.com/samuelcrow/badBank2.0/blob/main/GitHub%20Pic%20of%20Bad%20Bank.PNG)  
 
 ### Technology Used  
 - Javascript  
