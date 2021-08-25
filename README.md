@@ -12,6 +12,10 @@ How to view and/or use this project
 - enjoy  
  
  *I recommend using chrome*  
+
+### Image  
+![Picture of Bad Bank](http://url/to/img.png)  
+
 ### Technology Used  
 - Javascript  
 - Bootstrap  
